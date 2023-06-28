@@ -23,20 +23,20 @@ cl_crosshairsize "2";
 cl_crosshairstyle "4";
 cl_crosshairthickness "1";
 
-viewmodel_fov "68";
-viewmodel_offset_x "2.5";
-viewmodel_offset_y "0";
+viewmodel_fov "60";
+viewmodel_offset_x "1";
+viewmodel_offset_y "1";
 viewmodel_offset_z "-1.5";
-viewmodel_presetpos "3";
+viewmodel_presetpos "1";
 viewmodel_recoil "0";
 cl_righthand "1";
 
-cl_viewmodel_shift_left_amt "0";
-cl_viewmodel_shift_right_amt "0";
-cl_bob_lower_amt "5";
-cl_bobamt_lat "0";
-cl_bobamt_vert "0";
-cl_bobcycle "0.98";
+cl_viewmodel_shift_left_amt "1.5"; 
+cl_viewmodel_shift_right_amt "0.75"; 
+cl_bob_lower_amt "21"; 
+cl_bobamt_lat "0.4"; 
+cl_bobamt_vert "0.25";
+cl_bobcycle "0.98"
 
 hud_scaling "0.85";
 cl_hud_color "0";
